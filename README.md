@@ -1,10 +1,16 @@
-<h2 align="left">Olá!👋 <br>Meu nome é Yanne! Bio em construção ainda...</h2>
+<h2 align="left"> 👩‍💻> Olá, mundo!</h2>
 
-###
+👤 Usuário: Yanne <br>
+🔢 Idade: 26 <br>
+🎓 Formação: Design <br>
+📚 Cursando: Sistemas de Informação <br>
+⚙️ Status: Aprendendo a programar... <br>
+💻 Área favorita: Front-End — onde código vira arte ✨ <br>
 
-### Pequena bio + Gif ou imagem?
+### 🤖 Linguagens e Tecnologias
 
-###
+![Mapache Pedro](https://media.tenor.com/AHa74TYZbOQAAAAC/mapache-pedro.gif)
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -26,7 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
 </div>
 
-###
+### 🌐 Mídias Sociais
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
@@ -35,9 +41,14 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
 </div>
 
-###
+### 📊 Estatísticas
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Yannemm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=pt-br&hide_border=true" height="160" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Yannemm&locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5&date_format=j/n%5B/Y%5D" height="160" alt="streak graph"  />
 </div>
+
+### ✍️ Random Dev Quote
+
+
+
