@@ -39,5 +39,5 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Yannemm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=pt-br&hide_border=true" height="180" width="450" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Yannemm&locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5&date_format=j/n%5B/Y%5D" height="184" width="450" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Yannemm&locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5&date_format=j/n%5B/Y%5D" height="180" width="450" alt="streak graph"  />
 </div>
