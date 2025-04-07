@@ -7,7 +7,7 @@
 &nbsp;
 
 <p align="center">
-  <img align="right" src="https://github.com/Yannemm/Yannemm/blob/main/mapache-pedro.gif" width="250" alt="Mapache Pedro">
+  <img align="right" src="https://github.com/Yannemm/Yannemm/blob/main/mapache-pedro.gif" width="200" alt="Mapache Pedro">
 </p>
 <p>👤 Usuário: Yanne Moraes</p>
 <p>🔢 Idade: 26 anos</p>
