@@ -1,16 +1,30 @@
-<h2 align="left">Olá, mundo!</h2>
+<h2 align="left">Hey! Seja bem vindo! Me chamo Yanne!☺️ </h2>
+<p align="center">
+  <img align="right" src="https://github.com/Yannemm/Yannemm/blob/main/Linguagens%20e%20Tecnologias.png" width="100%" alt="Mapache Pedro">
+</p>
+
+<!-- espaçamento -->
+&nbsp;
 
 <p align="center">
   <img align="right" src="https://github.com/Yannemm/Yannemm/blob/main/mapache-pedro.gif" width="250" alt="Mapache Pedro">
 </p>
-<p>👤 Usuário: Yanne</p>
+<p>👤 Usuário: Yanne Moraes</p>
 <p>🔢 Idade: 26 anos</p>
-<p>🎓 Formação: Design</p>
+<p>🎓 Formação em: Design</p>
 <p>📚 Cursando: Sistemas de Informação</p>
 <p>⚙️ Status: Aprendendo a programar...</p>
 <p>💻 Área favorita: Front-End — onde código vira arte ✨</p>
 
-### 🌐 Mídias Sociais
+<!-- espaçamento -->
+&nbsp;
+
+<p align="center">
+  <img align="right" src="https://github.com/Yannemm/Yannemm/blob/main/Mídias%20Sociais.png" width="100%" margin="1000px" alt="Mapache Pedro">
+</p>
+
+<!-- espaçamento -->
+&nbsp;
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="30" alt="gmail logo"/>
@@ -24,7 +38,15 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="30" alt="discord logo"/>
 </div>
 
-### 🤖 Linguagens e Tecnologias
+<!-- espaçamento -->
+&nbsp;
+
+<p align="center">
+  <img align="right" src="https://github.com/Yannemm/Yannemm/blob/main/GitHub%20(1).gif" width="100%" margin="1000px" alt="Mapache Pedro">
+</p>
+
+<!-- espaçamento -->
+&nbsp;
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"/>
@@ -62,7 +84,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"/>
 </div>
 
-### 📊 Estatísticas
+<!-- espaçamento -->
+&nbsp;
+
+<p align="center">
+  <img align="right" src="https://github.com/Yannemm/Yannemm/blob/main/Estatísticas.png" width="100%" margin="1000px" alt="Mapache Pedro">
+</p>
+
+<!-- espaçamento -->
+&nbsp;
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Yannemm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=pt-br&hide_border=true" height="160" alt="stats graph"/>
