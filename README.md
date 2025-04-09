@@ -1,10 +1,9 @@
 <h2 align="left">Hey! Seja bem vindo! Me chamo Yanne!☺️ </h2>
 <p align="center">
-  <img align="right" src="https://github.com/Yannemm/Yannemm/blob/main/Linguagens%20e%20Tecnologias.png" width="100%" alt="Mapache Pedro">
+  <img align="right" src="https://github.com/Yannemm/Yannemm/blob/main/Sobre%20mim.png" width="100%" alt="sobre mim">
 </p>
 
-<!-- espaçamento -->
-&nbsp;
+
 
 <p align="center">
   <img align="right" src="https://github.com/Yannemm/Yannemm/blob/main/mapache-pedro.gif" width="200" alt="Mapache Pedro">
@@ -20,7 +19,7 @@
 &nbsp;
 
 <p align="center">
-  <img align="right" src="https://github.com/Yannemm/Yannemm/blob/main/Mídias%20Sociais.png" width="100%" alt="Mapache Pedro">
+  <img align="right" src="" width="100%" alt="Tecnologia">
 </p>
 
 <!-- espaçamento -->
@@ -42,7 +41,7 @@
 &nbsp;
 
 <p align="center">
-  <img align="right" src="https://github.com/Yannemm/Yannemm/blob/main/GitHub%20(1).gif" width="100%" margin="1000px" alt="Mapache Pedro">
+  <img align="right" src="" width="100%" margin="1000px" alt="Mapache Pedro">
 </p>
 
 <!-- espaçamento -->
@@ -88,7 +87,7 @@
 &nbsp;
 
 <p align="center">
-  <img align="right" src="https://github.com/Yannemm/Yannemm/blob/main/Estatísticas.png" width="100%" margin="1000px" alt="Mapache Pedro">
+  <img align="right" src="" width="100%" margin="1000px" alt="Estatisticas">
 </p>
 
 <!-- espaçamento -->
