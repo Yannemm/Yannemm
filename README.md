@@ -19,7 +19,7 @@
 &nbsp;
 
 <p align="center">
-  <img align="right" src="" width="100%" alt="Tecnologia">
+  <img align="right" src="https://github.com/Yannemm/Yannemm/blob/main/Mídias%20Sociais.png" width="100%" alt="midias">
 </p>
 
 <!-- espaçamento -->
@@ -41,7 +41,7 @@
 &nbsp;
 
 <p align="center">
-  <img align="right" src="" width="100%" margin="1000px" alt="Mapache Pedro">
+  <img align="right" src="https://github.com/Yannemm/Yannemm/blob/main/Linguagens%20e%20Tecnologias.png" width="100%" margin="1000px" alt="tecnologia">
 </p>
 
 <!-- espaçamento -->
@@ -87,7 +87,7 @@
 &nbsp;
 
 <p align="center">
-  <img align="right" src="" width="100%" margin="1000px" alt="Estatisticas">
+  <img align="right" src="https://github.com/Yannemm/Yannemm/blob/main/Estatísticas.png" width="100%" margin="1000px" alt="Estatisticas">
 </p>
 
 <!-- espaçamento -->
